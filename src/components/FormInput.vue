@@ -3,7 +3,6 @@
     <input type="text" placeholder="Type something..." v-model="title" />
     <button>ADD</button>
   </form>
-  {{ arr }}
 </template>
 
 <script>
